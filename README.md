@@ -33,11 +33,11 @@ Allows farmers to upload images of their plants. The system detects diseases usi
 
 ### 🖼️ Homepage UI
 
-![Homepage](https://drive.google.com/file/d/1PFlihM4mhyOSMxH6M29TZH8n8aF3VmFT/view?usp=drive_link)
+![Homepage](https://github.com/Sudhanshu3011/FCC-HTML-CSS/blob/main/images/sudhanshu3011.github.io_Agricare_%20(2).png)
 
 ### 📱 Responsive Navbar
 
-![Navbar](https://drive.google.com/file/d/1o4wHEZRXIs489VLObZHCvylKXDApWq8Y/view?usp=drive_link)
+![Navbar](https://github.com/Sudhanshu3011/FCC-HTML-CSS/blob/main/images/sudhanshu3011.github.io_Agricare_%20(4).png)
 
 ---
 
