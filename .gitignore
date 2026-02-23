@@ -1,0 +1,8 @@
+# Ignore Python virtual environment
+venv/
+
+# Ignore all log files
+*.log
+
+# Ignore a specific file
+secret_data.txt
